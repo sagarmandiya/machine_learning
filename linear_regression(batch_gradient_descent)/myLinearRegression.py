@@ -12,7 +12,7 @@ y = data.iloc[:, 1]
 # Building the model
 theta0 = 0
 theta1 = 0
-alpha = 0.001
+alpha = 0.003
 epoche = 10000
 n = len(x)
 
