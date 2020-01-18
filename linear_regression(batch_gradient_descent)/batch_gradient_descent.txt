@@ -1,0 +1,2 @@
+Batch gradient descent computes the gradient using the whole dataset. This is great for convex, or relatively smooth error manifolds. 
+In this case, we move somewhat directly towards an optimum solution, either local or global.
