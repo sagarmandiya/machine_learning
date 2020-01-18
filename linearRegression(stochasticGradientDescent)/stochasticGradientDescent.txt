@@ -1,0 +1,2 @@
+Stochastic Gradient Descent is used on a large Dataset where the values of parameters is updated after every data-point 
+unlike the batch gradient descent.
