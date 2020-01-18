@@ -1,6 +1,5 @@
 def gradientDescent(x, y, n):
-    theta0 = 0
-    theta1 = 0
+    theta0, theta1 = 0, 0
     alpha = 0.001
     itr = 10
     dtheta0 = 0
