@@ -12,11 +12,11 @@ y = data.iloc[:, 1]
 # Building the model
 theta0 = 0
 theta1 = 0
-alpha = 0.0001
+alpha = 0.001
 epoche = 10000
 n = len(x)
 
-for i in range(n):
+for i in range(epoche):
     ypred = theta0 + theta1 * x
     D_theta0 = (-2 * sum(y - ypred)) / n
     D_theta1 = (-2 * sum(x * (y - ypred))) / n
