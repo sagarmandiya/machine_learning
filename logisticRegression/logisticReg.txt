@@ -1,2 +1,2 @@
-In this section, I used a dataset of Car Service which consists of features like Engine performane, Milege, etc... for a logistic regression
+In this section, I used a dataset of Car Service which consists of features like Engine performane, Milege, etc... for a Perceptron
 model which can also be referred to as a single neuron neural net. 
